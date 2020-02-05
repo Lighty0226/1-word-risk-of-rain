@@ -1,0 +1,16 @@
+{
+	strings:
+	{
+	"DIFFICULTY_BAR_0": "easierer",
+	"DIFFICULTY_BAR_1": "easier",
+	"DIFFICULTY_BAR_2": "easy",
+	"DIFFICULTY_BAR_3": "hard",
+	"DIFFICULTY_BAR_4": "harder",
+	"DIFFICULTY_BAR_5": "harderer",
+	"DIFFICULTY_BAR_6": "hardererer",
+	"DIFFICULTY_BAR_7": "difficult",
+	"DIFFICULTY_BAR_8": "difficulter",
+	"DIFFICULTY_BAR_9": "gamer ",
+	"STAGE_COUNT_FORMAT" : "<style=cSub>Stage\n</style> {0}",
+	}
+}

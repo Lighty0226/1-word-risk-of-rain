@@ -1,0 +1,125 @@
+{
+	"strings":
+	{
+	"EQUIPMENT_COMMANDMISSILE_NAME": "Missile",
+	"EQUIPMENT_COMMANDMISSILE_PICKUP": "missiles x12.",
+	"EQUIPMENT_COMMANDMISSILE_DESC": "<style=cIsDamage>12x300% damage.</style>",
+
+	"EQUIPMENT_SAW_NAME": "Saw",
+	"EQUIPMENT_SAW_PICKUP": "Saw pickup text.",
+	"EQUIPMENT_SAW_DESC": "Saw description.",
+
+	"EQUIPMENT_FRUIT_NAME": "Fruit",
+	"EQUIPMENT_FRUIT_PICKUP": "Heal.",
+	"EQUIPMENT_FRUIT_DESC": "<style=cIsHealing>50% health</style>.",
+
+	"EQUIPMENT_METEOR_NAME": "Meteorite",
+	"EQUIPMENT_METEOR_PICKUP": "<color=#FF7F7F>CHAOS</color>\n",
+	"EQUIPMENT_METEOR_DESC": "dummy.",
+
+	"EQUIPMENT_SOULJAR_NAME": "Souls",
+	"EQUIPMENT_SOULJAR_PICKUP": "ghost.",
+	"EQUIPMENT_SOULJAR_DESC": "15 seconds.",
+
+	"EQUIPMENT_BLACKHOLE_NAME": "Cube",
+	"EQUIPMENT_BLACKHOLE_PICKUP": "hole.",
+	"EQUIPMENT_BLACKHOLE_DESC": "gravity.",
+
+	"EQUIPMENT_GHOSTGUN_NAME": "Reaper's Remorse",
+	"EQUIPMENT_GHOSTGUN_PICKUP": "Summon a ghostly revolver that doubles damage on kill.",
+	"EQUIPMENT_GHOSTGUN_DESC": "Ghost Gun description.",
+
+	"EQUIPMENT_CRITONUSE_NAME": "HUD",
+	"EQUIPMENT_CRITONUSE_PICKUP": "Crits.",
+	"EQUIPMENT_CRITONUSE_DESC": "<style=cIsDamage>+100% Critical</style>.",
+
+	"EQUIPMENT_DRONEBACKUP_NAME": "SWARM",
+	"EQUIPMENT_DRONEBACKUP_PICKUP": "25 seconds.",
+	"EQUIPMENT_DRONEBACKUP_DESC": "<style=cIsDamage>4 Drones</style>.",
+	"EQUIPMENT_DRONEBACKUP_LORE": "\"The inclusion of Rapid Response Drone Squadrons (RRDS) by local law enforcement marked a dire turning point of Plank's Rebellion. After its massive \"success\" in quelling the Rebellion - and subsequent implementation across Mercury - underground drone hackers became highly sought after by black market users.\"\r\n\r\n-Overview of Drone Technology, Vol.2\r\n",
+
+	"EQUIPMENT_BFG_NAME": "BFG",
+	"EQUIPMENT_BFG_PICKUP": "Doomguy?.",
+	"EQUIPMENT_BFG_DESC": "<style=cIsDamage>600%,</style> <style=cIsDamage>4000%</style>.",
+
+	"EQUIPMENT_JETPACK_NAME": "Milky",
+    "EQUIPMENT_JETPACK_PICKUP": "Fly.",
+    "EQUIPMENT_JETPACK_DESC": "<style=cIsUtility>fly, 15 seconds</style>."
+
+	"EQUIPMENT_LIGHTNING_NAME": "THOR",
+    "EQUIPMENT_LIGHTNING_PICKUP": "lightning.",
+    "EQUIPMENT_LIGHTNING_DESC": "lightning, <style=cIsDamage>3000%</style>.",
+
+	"EQUIPMENT_GOLDGAT_NAME": "Crowdfunder",
+    "EQUIPMENT_GOLDGAT_PICKUP": "BAD.",
+    "EQUIPMENT_GOLDGAT_DESC": "<style=cIsDamage>100%,</style> $1.",
+	
+	"EQUIPMENT_PASSIVEHEALING_NAME": "Woodbro",
+	"EQUIPMENT_PASSIVEHEALING_PICKUP":"Heal.",
+	"EQUIPMENT_PASSIVEHEALING_DESC":"<style=cIsHealing>1.5%health/second</style>, <style=cIsHealing>10%</style>.",
+
+	"EQUIPMENT_AFFIXRED_NAME": "Ifrit",
+    "EQUIPMENT_AFFIXRED_PICKUP": "fire.",
+    "EQUIPMENT_AFFIXRED_DESC": "",
+
+	"EQUIPMENT_AFFIXBLUE_NAME": "Strikes",
+    "EQUIPMENT_AFFIXBLUE_PICKUP": "lightning.",
+    "EQUIPMENT_AFFIXBLUE_DESC": "",
+
+	"EQUIPMENT_AFFIXGOLD_NAME": "Gold",
+    "EQUIPMENT_AFFIXGOLD_PICKUP": "Trump?.",
+    "EQUIPMENT_AFFIXGOLD_DESC": "",
+
+	"EQUIPMENT_AFFIXWHITE_NAME": "Embrace",
+    "EQUIPMENT_AFFIXWHITE_PICKUP": "ice.",
+    "EQUIPMENT_AFFIXWHITE_DESC": "",
+
+	"EQUIPMENT_AFFIXPOISON_NAME": "N'kuhana",
+    "EQUIPMENT_AFFIXPOISON_PICKUP": "corrupt.",
+    "EQUIPMENT_AFFIXPOISON_DESC": "",
+
+	"EQUIPMENT_AFFIXHAUNTED_NAME": "Circlet",
+    "EQUIPMENT_AFFIXHAUNTED_PICKUP": "sp00ky.",
+    "EQUIPMENT_AFFIXHAUNTED_DESC": "",
+
+	"EQUIPMENT_BURNNEARBY_NAME" : "Helfire",
+	"EQUIPMENT_BURNNEARBY_PICKUP" : "<color=#FF7F7F>BAD.</color>\n",
+	"EQUIPMENT_BURNNEARBY_DESC" : "don't",
+	"EQUIPMENT_BURNNEARBY_LORE" : "<style=cMono>\n========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <1453461 cycles>\nComplete!\nDisplay result? Y/N\nY\n================================</style>\n[Grix] ignites. We measure the time. \n.....\n.....\n.....\n...\n..\n.\n\nToo ordered. Composition is settling - I scrape the mixture from the bottom.  \n[Ouju] ignites. We measure the time.\n....\n...\n...\n..\n.\n\nToo smooth. Ratio can be greater. I flatten the mixture. Black ichor of [Ouju] begins to pool around my feet. \n[Rhisko] ignites. I measure the time.\n...\n.\n\nI increase the ratio of Tetrafoil. I saturate the mixture. Ichor floods the chamber. Ash flutters in the air before settling on the floor.\n...\nI ignite. <He> measures my time.\n...\n...\n...\n..\n..\n..\n.\n\n<Perfect.>\n<style=cMono>\n================================\n",
+
+	"EQUIPMENT_SOULCORRUPTOR_NAME": "EQUIPMENT_SOULCORRUPTOR_NAME",
+	"EQUIPMENT_SOULCORRUPTOR_PICKUP": "EQUIPMENT_SOULCORRUPTOR_PICKUP",
+	"EQUIPMENT_SOULCORRUPTOR_DESC": "EQUIPMENT_SOULCORRUPTOR_DESC",
+
+	"EQUIPMENT_SCANNER_NAME": "Scanner",
+	"EQUIPMENT_SCANNER_PICKUP": "Reveal.",
+	"EQUIPMENT_SCANNER_DESC": "<style=cIsUtility>Reveal</style>.",
+	
+	"EQUIPMENT_CRIPPLEWARD_NAME" : "Grief",
+	"EQUIPMENT_CRIPPLEWARD_PICKUP" : "no.",
+	"EQUIPMENT_CRIPPLEWARD_DESC" :  "please.",
+
+	"EQUIPMENT_GATEWAY_NAME" : "Vase",
+	"EQUIPMENT_GATEWAY_PICKUP" : "tunnel.",
+	"EQUIPMENT_GATEWAY_DESC" : "<style=cIsUtility>tunnel</style>, <style=cIsUtility>1000m</style>.",
+	
+	"EQUIPMENT_TONIC_NAME" : "drugs",
+	"EQUIPMENT_TONIC_PICKUP" : "boost.",
+	"EQUIPMENT_TONIC_DESC" : "withdrawl.",
+	
+	"EQUIPMENT_QUESTVOLATILEBATTERY_NAME" : "Fuel",
+	"EQUIPMENT_QUESTVOLATILEBATTERY_PICKUP" : "<color=#FF7F7F>unstable...</color>",
+
+	"EQUIPMENT_CLEANSE_NAME" : "Shower",
+	"EQUIPMENT_CLEANSE_PICKUP" : "cleanse.",
+	"EQUIPMENT_CLEANSE_DESC" : "<style=cIsUtility>Cleanse</style>.",
+
+	"EQUIPMENT_FIREBALLDASH_NAME" : "Egg",
+	"EQUIPMENT_FIREBALLDASH_PICKUP" : "fireball.",
+	"EQUIPMENT_FIREBALLDASH_DESC" : "<style=cIsDamage>fireball</style>.",
+	
+	"EQUIPMENT_GAINARMOR_NAME" : "Elephant",
+	"EQUIPMENT_GAINARMOR_PICKUP" : "ARMOR.",
+	"EQUIPMENT_GAINARMOR_DESC" : "<style=cIsDamage>500 armor</style>.",
+	}
+}

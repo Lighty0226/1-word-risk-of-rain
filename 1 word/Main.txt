@@ -1,0 +1,160 @@
+{
+	"strings":
+	{
+		"GAME_TITLE": "Spacegame 2017",
+		"DEFAULT_FONT": "TmpFonts/Bombardier/tmpBombDropShadow",
+		
+		"LOREM" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", 
+		"TITLE_PROFILE": "Profile: {0}",
+		"TITLE_SINGLEPLAYER": "lonely",
+		"TITLE_MULTIPLAYER": "friends",
+		"TITLE_SETTINGS": "stuff",
+		"TITLE_LOGS": "knowledge",
+		"TITLE_UNLOCKABLES": "challenges",
+		"TITLE_MORE": "More",
+		"TITLE_EXIT": "leave",
+		"TITLE_MULTIPLAYER_QUICKPLAY_START": "QuickPlay",
+		"TITLE_MULTIPLAYER_QUICKPLAY_STOP": "Leave",
+		"TITLE_MULTIPLAYER_HOST": "Private",
+		"TITLE_MULTIPLAYER_JOIN": "ID",
+		"TITLE_MULTIPLAYER_INVITE": "Invite",
+		"TITLE_MULTIPLAYER_RETURN": "Back",
+
+		"MORE_MUSIC" : "MUSIC",
+		"MORE_MUSIC_DESC" : "WOOOOOOOOOOOOOOOOOOO WOO WOO WOOO WOOWOOWOO WOO WOO WOOOOOOOOOOOOOOOO",
+		"MORE_MUSIC_BUTTON" : "TAKE ME!",
+		"MORE_CONTACT" : "CONTACT",
+		"MORE_CONTACT_DESC" : "follow",
+
+		"MORE_LICENSE" : "LICENSING",
+		"MORE_LICENSE_DESC" : "Copyright (C) 2012 - 2019 Hopoo Games, LLC. All rights reserved. \r\n\r\nMade with Unity. Unity is a trademark or registered trademark of Unity Technologies or its affiliates in the U.S. and elsewhere. All rights reserved. \r\n\r\nPowered by Wwise (C) 2006 - 2019 Audiokinetic Inc. All rights reserved.\r\n\r\nAll other trademarks and registered trademarks are property of their respective owners.",
+
+		"DESC_MULTIPLAYER_QUICKPLAY": "Lonely.",
+		"DESC_MULTIPLAYER_HOST": "Host.",
+		"DESC_MULTIPLAYER_JOIN": "Numbers.",
+		"DESC_MULTIPLAYER_INVITE": "Invite.",
+
+		"TITLE_WEEKLY" : "Prismatic",
+		"TITLE_WEEKLY_START" : "Start",
+		"WEEKLY_RUN_NO_ENTRY" : "play.",
+		"WEEKLY_RUN_NEXT_CYCLE_COUNTDOWN_FORMAT" : "Next: {0:00}:{1:00}:{2:00}",
+		"WEEKLY_RUN_DESCRIPTION" :	"speed.",
+		"WEEKLY_RUN_RANK" : "Rank",
+		"WEEKLY_RUN_NAME" : "Name",
+		"WEEKLY_RUN_TIME" : "Time",
+
+		"CHARSELECT_RETURN": "Back",
+		"DIFFICULTY_EASY_NAME": "drizzlet",
+		"DIFFICULTY_EASY_DESCRIPTION": "ez",
+
+		"DIFFICULTY_NORMAL_NAME": "gamer",
+		"DIFFICULTY_NORMAL_DESCRIPTION": "easyn't.",
+
+		"DIFFICULTY_HARD_NAME": "NO",
+		"DIFFICULTY_HARD_DESCRIPTION": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+		
+		"USER_PROFILE_DELETE_HEADER": "Delete",
+		"USER_PROFILE_DELETE_DESCRIPTION": "delete?.",
+		"USER_PROFILE_DELETE_YES": "Yes",
+		"USER_PROFILE_DELETE_NO": "Nevermind...",
+		
+
+		"SUBMENU_BACK": "Back",
+		"ACHIEVEMENTS_SCREEN_TITLE": "Challenges",
+		"ACHIEVEMENT_CARD_REWARD_FORMAT": "Reward: {0}",
+		"ACHIEVEMENT_CARD_PREREQ_FORMAT" : "Requires: {0}",
+		"CHAT_KEYBIND_TIP": "Enter.",
+
+		"GAME_RESULT_LOST": "LOSS!",
+		"GAME_RESULT_WON": "WON!",
+		"GAME_RESULT_UNKNOWN": "UNKNOWN..",
+		
+		"UNIDENTIFIED" : "???",
+		"UNIDENTIFIED_DESCRIPTION" : "soon...",
+		
+		"DESCRIPTION_PREFIX_FORMAT" : "Description:\n{0}",
+		"NOTES_PREFIX_FORMAT" : "Notes:\n<style=cSub><size=80%>{0}</size></style>",
+
+		"GENERIC_PREFIX_FOUND" : "Found: <style=cEvent>{0}</style>",
+		"GENERIC_PREFIX_WINPERCENTAGE" : "Win %: <style=cEvent>{0}%</style>",
+		"BODY_HEALTH_FORMAT" : "Max HP: {0}",
+		"BODY_DAMAGE_FORMAT" : "Damage: {0}",
+		"BODY_MOVESPEED_FORMAT" : "Speed: {0} m/s",
+		"BODY_ARMOR_FORMAT" : "Armor: {0}",
+		"BODY_REGEN_FORMAT" : "HP Regeneration: {0} hp/s",
+
+		"ITEM_PREFIX_STACKCOUNT" : "Stacks: <style=cEvent>x{0}</style>",
+		"EQUIPMENT_PREFIX_COOLDOWN" : "Cooldown: <style=cIsUtility>{0}s</style>",
+		"EQUIPMENT_PREFIX_USECOUNT" : "Activations: <style=cEvent>{0}</style>",
+		"EQUIPMENT_PREFIX_TOTALTIMEHELD" : "Time: <style=cEvent>{0}</style>",
+		"MONSTER_PREFIX_KILLED" : "Killed: <style=cEvent>{0}</style>",
+		"MONSTER_PREFIX_ELITESKILLED" : "Elites: <style=cEvent>{0}</style>",
+		"MONSTER_PREFIX_DEATH" : "Deathed: <style=cEvent>{0}</style>",
+		
+		"STAGE_PREFIX_TOTALTIMESVISITED" : "Visited: <style=cEvent>{0}</style>",
+		"STAGE_PREFIX_TOTALTIMESCLEARED" : "Cleared: <style=cEvent>{0}</style>",
+		"STAGE_PREFIX_STAGECOMPLETIONPERCENTAGE" : "Percentage: <style=cEvent>{0}%</style>",
+
+		"SURVIVOR_PREFIX_LONGESTRUN" : "Longest: <style=cEvent>{0}</style>",
+		"SURVIVOR_PREFIX_TIMESPICKED" : "Played: <style=cEvent>{0}</style>",
+		"SURVIVOR_PREFIX_PICKPERCENTAGE" : "Percentage: <style=cEvent>{0:#00.00}%</style>",
+
+		"BODY_STATS_FORMAT" : "{0} <style=cStack>(+{1} per level)</style>",
+		
+		"DIALOG_OPTION_YES" : "Yes",
+		"OK" : "OK",
+		"CANCEL" : "Cancel",
+		
+		"PLAYER_NAME_TOOLTIP_FORMAT" : "Player: {0}",
+		"PLAYER_NAME_DISCONNECTED" : "Disconnected",
+		"PLAYER_NAME_UNAVAILABLE" : "???",
+		
+		"DISCONNECTED" : "Disconnected",
+		"KICK_REASON_UNSPECIFIED" : "unspecified.",
+		"KICK_REASON_SERVERSHUTDOWN" : "shut.",
+		"KICK_REASON_TIMEOUT" : "AAAAAAAAAAAAAAAAAAAA.",
+		"KICK_REASON_KICK" : "Kicked.",
+		"KICK_REASON_BAN" : "Banned.",
+		"KICK_REASON_BADPASSWORD" : "password.",
+		"KICK_REASON_BADVERSION" : "version.",
+		"KICK_REASON_SERVERFULL" : "full.",
+
+		"LEADERBOARDS" : "Leaderboards",
+		"LEADERBOARDS_GLOBAL" : "GLOBAL",
+		"LEADERBOARDS_FRIENDS" : "FRIENDS",
+
+		"PROFILE_TITLE" : "Select",
+		"PROFILE_CREATE_NEW" : "New...",
+		"PROFILE_ENTER" : "Enter",
+		"PROFILE_SELECT" : "Select",
+		"PROFILE_DEL" : "Del",
+		"PROFILE_DELETE" : "Delete",
+		"PROFILE_CREATE_PROFILE" : "Create",
+		"PROFILE_ADD" : "Add",
+
+		"PAUSE_RESUME" : "Resume",
+		"PAUSE_SETTINGS" : "Settings",
+		"PAUSE_QUIT_TO_MENU" : "Menu",
+		"PAUSE_QUIT_TO_DESKTOP" : "Desktop",
+		
+		"SPECTATING_NAME_FORMAT" : "Spectating: {0}",
+		
+		"QUIT_RUN_CONFIRM_DIALOG_TITLE": "End?",
+		"QUIT_RUN_CONFIRM_DIALOG_BODY_SINGLEPLAYER": "Sure?",
+		"QUIT_RUN_CONFIRM_DIALOG_BODY_CLIENT": "stop.",
+		"QUIT_RUN_CONFIRM_DIALOG_BODY_HOST": "STOP,.",
+		
+		"ARENA_HUD_MONSTERS_LABEL": "Monsters",
+		"ARENA_HUD_MONSTER_ITEMS_LABEL": "Items",
+		
+		"IMMUNE_TO_DAMAGE_HITMARKER": "IMMUNE",
+		"BLOCKED_DAMAGE_HITMARKER": "BLOCKED!",
+		"EXTRALIFE_REVIVED_EFFECT": "REVIVED!",
+		
+		"SCOREBOARD_HEADER_PLAYERS": "Players",
+		"SCOREBOARD_HEADER_ITEMS": "Items",
+		"SCOREBOARD_HEADER_EQUIPMENT": "Equipment",
+		
+		"HUD_LEVEL_PREFIX": "Lv:",
+	}
+}

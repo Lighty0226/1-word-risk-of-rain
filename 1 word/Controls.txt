@@ -1,0 +1,25 @@
+{
+	strings:
+	{
+		"ACTION_MOVE_HORIZONTAL" : "Move",
+		"ACTION_MOVE_VERTICAL" : "Vertical",
+		"ACTION_AIM_HORIZONTAL_MOUSE" : "Aim",
+		"ACTION_AIM_VERTICAL_MOUSE" : "A: Vertical",
+		"ACTION_AIM_HORIZONTAL_STICK" : "A: Horizontal",
+		"ACTION_AIM_VERTICAL_STICK" : "A: Vertical",
+		"ACTION_JUMP" : "Jump",
+		"ACTION_SPRINT" : "Sprint",
+		"ACTION_INTERACT" : "Interact",
+		"ACTION_EQUIPMENT" : "Equipment",
+		"ACTION_PRIMARY_SKILL" : "Primary",
+		"ACTION_SECONDARY_SKILL" : "Secondary",
+		"ACTION_UTILITY_SKILL" : "Utility",
+		"ACTION_SPECIAL_SKILL" : "Special",
+		"ACTION_INFO" : "Info",
+		"ACTION_PING" : "Ping",
+		"ACTION_MOVE_VERTICAL_POSITIVE" : "Forward",
+		"ACTION_MOVE_VERTICAL_NEGATIVE" : "Backward",
+		"ACTION_MOVE_HORIZONTAL_POSITIVE" : "Right",
+		"ACTION_MOVE_HORIZONTAL_NEGATIVE" : "Left",
+	}
+}
