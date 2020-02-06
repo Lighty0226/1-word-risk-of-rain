@@ -126,7 +126,7 @@
 
 	"SHRINE_COMBAT_NAME": "Combat",
 	"SHRINE_COMBAT_CONTEXT": "Pray",
-	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>]{1}s.</color>",
+	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>{1}s.</color>",
 	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{1}s.</color>",
 
 	"SHRINE_PROTECTION_NAME": "Shrine of Warding",

@@ -43,44 +43,44 @@
 	"EQUIPMENT_BFG_DESC": "<style=cIsDamage>600%,</style> <style=cIsDamage>4000%</style>.",
 
 	"EQUIPMENT_JETPACK_NAME": "Milky",
-    "EQUIPMENT_JETPACK_PICKUP": "Fly.",
-    "EQUIPMENT_JETPACK_DESC": "<style=cIsUtility>fly, 15 seconds</style>."
+   	"EQUIPMENT_JETPACK_PICKUP": "Fly.",
+    	"EQUIPMENT_JETPACK_DESC": "<style=cIsUtility>fly, 15 seconds</style>."
 
 	"EQUIPMENT_LIGHTNING_NAME": "THOR",
-    "EQUIPMENT_LIGHTNING_PICKUP": "lightning.",
-    "EQUIPMENT_LIGHTNING_DESC": "lightning, <style=cIsDamage>3000%</style>.",
+   	 "EQUIPMENT_LIGHTNING_PICKUP": "lightning.",
+    	"EQUIPMENT_LIGHTNING_DESC": "lightning, <style=cIsDamage>3000%</style>.",
 
 	"EQUIPMENT_GOLDGAT_NAME": "Crowdfunder",
-    "EQUIPMENT_GOLDGAT_PICKUP": "BAD.",
-    "EQUIPMENT_GOLDGAT_DESC": "<style=cIsDamage>100%,</style> $1.",
-	
+    	"EQUIPMENT_GOLDGAT_PICKUP": "BAD.",
+    	"EQUIPMENT_GOLDGAT_DESC": "<style=cIsDamage>100%,</style> $1.",
+		
 	"EQUIPMENT_PASSIVEHEALING_NAME": "Woodbro",
 	"EQUIPMENT_PASSIVEHEALING_PICKUP":"Heal.",
 	"EQUIPMENT_PASSIVEHEALING_DESC":"<style=cIsHealing>1.5%health/second</style>, <style=cIsHealing>10%</style>.",
 
 	"EQUIPMENT_AFFIXRED_NAME": "Ifrit",
-    "EQUIPMENT_AFFIXRED_PICKUP": "fire.",
-    "EQUIPMENT_AFFIXRED_DESC": "",
+    	"EQUIPMENT_AFFIXRED_PICKUP": "fire.",
+    	"EQUIPMENT_AFFIXRED_DESC": "",
 
 	"EQUIPMENT_AFFIXBLUE_NAME": "Strikes",
-    "EQUIPMENT_AFFIXBLUE_PICKUP": "lightning.",
-    "EQUIPMENT_AFFIXBLUE_DESC": "",
+    	"EQUIPMENT_AFFIXBLUE_PICKUP": "lightning.",
+    	"EQUIPMENT_AFFIXBLUE_DESC": "",
 
 	"EQUIPMENT_AFFIXGOLD_NAME": "Gold",
-    "EQUIPMENT_AFFIXGOLD_PICKUP": "Trump?.",
-    "EQUIPMENT_AFFIXGOLD_DESC": "",
+    	"EQUIPMENT_AFFIXGOLD_PICKUP": "Trump?.",
+    	"EQUIPMENT_AFFIXGOLD_DESC": "",
 
 	"EQUIPMENT_AFFIXWHITE_NAME": "Embrace",
-    "EQUIPMENT_AFFIXWHITE_PICKUP": "ice.",
-    "EQUIPMENT_AFFIXWHITE_DESC": "",
+    	"EQUIPMENT_AFFIXWHITE_PICKUP": "ice.",
+    	"EQUIPMENT_AFFIXWHITE_DESC": "",
 
 	"EQUIPMENT_AFFIXPOISON_NAME": "N'kuhana",
-    "EQUIPMENT_AFFIXPOISON_PICKUP": "corrupt.",
-    "EQUIPMENT_AFFIXPOISON_DESC": "",
+    	"EQUIPMENT_AFFIXPOISON_PICKUP": "corrupt.",
+    	"EQUIPMENT_AFFIXPOISON_DESC": "",
 
 	"EQUIPMENT_AFFIXHAUNTED_NAME": "Circlet",
-    "EQUIPMENT_AFFIXHAUNTED_PICKUP": "sp00ky.",
-    "EQUIPMENT_AFFIXHAUNTED_DESC": "",
+    	"EQUIPMENT_AFFIXHAUNTED_PICKUP": "sp00ky.",
+    	"EQUIPMENT_AFFIXHAUNTED_DESC": "",
 
 	"EQUIPMENT_BURNNEARBY_NAME" : "Helfire",
 	"EQUIPMENT_BURNNEARBY_PICKUP" : "<color=#FF7F7F>BAD.</color>\n",
