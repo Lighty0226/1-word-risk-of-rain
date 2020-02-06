@@ -1,0 +1,25 @@
+{
+	"strings":
+	{
+		"TOOLTIP_TIME_DIFFICULTY": "Difficulty is <i>ALWAYS</i> increasing with time - play fast!",
+		"TOOLTIP_EQUIPMENT": "<color=orange>Equipment</color> are powerful, activated items.",
+		"TOOLTIP_SPRINT": "Sprint to get around the map!",
+		"TOOLTIP_WIP_CONTENT_NAME" : "Construction",
+		"TOOLTIP_WIP_CONTENT_DESCRIPTION" : "Come!",
+
+		"TOOLTIP_UNLOCK_LOG_NAME" : "Unlocked",
+		"TOOLTIP_UNLOCK_LOG_DESCRIPTION" : "Logbook.",
+
+		"TOOLTIP_UNLOCK_ITEM_NAME" : "Unlocked",
+		"TOOLTIP_UNLOCK_ITEM_DESCRIPTION" : "Runs.",
+
+		"TOOLTIP_UNLOCK_EQUIPMENT_NAME" : "Unlocked",
+		"TOOLTIP_UNLOCK_EQUIPMENT_DESCRIPTION" : "Runs.",
+
+		"TOOLTIP_UNLOCK_SURVIVOR_NAME" : "Unlocked",
+		"TOOLTIP_UNLOCK_SURVIVOR_DESCRIPTION" : "Survivor.",
+
+		"TOOLTIP_UNLOCK_GENERIC_NAME" : "Unlocked",
+		"TOOLTIP_UNLOCK_GENERIC_DESCRIPTION" : "Content.",
+	}
+}

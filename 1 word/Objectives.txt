@@ -1,0 +1,16 @@
+{
+	"strings":
+	{
+		"OBJECTIVE_TITLE" : "Objective:",
+		"OBJECTIVE_FIND_TELEPORTER": "<style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style>",
+		"OBJECTIVE_CHARGE_TELEPORTER": "Charge <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style> ({0}%)",
+		"OBJECTIVE_CHARGE_TELEPORTER_OOB": "Enter <style=cDeath>Teleporter!</style> ({0}%)",
+		"OBJECTIVE_FINISH_TELEPORTER": "Proceed",
+		"OBJECTIVE_DEFEAT_BOSS": "Boss!",
+		"OBJECTIVE_GOLDSHORES_ACTIVATE_BEACONS" :  "Beacons({0}/{1})",
+		"OBJECTIVE_GOLDSHORES_DEFEAT_BOSS" :  "Defeat {0},{1}",
+		"OBJECTIVE_WEEKLYRUN_DESTROY_CRYSTALS" : "<color=#f37aff>Crystals</color> ({0}/{1})",
+		"OBJECTIVE_CLEAR_ARENA" : "Cell ({0}/{1})",
+		"OBJECTIVE_ARENA_CHARGE_CELL" : "Breach ({0}%)",
+	}
+}
