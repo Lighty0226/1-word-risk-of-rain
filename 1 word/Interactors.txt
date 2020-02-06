@@ -110,7 +110,7 @@
 	"SHRINE_CHANCE_FAIL_MESSAGE": "<style=cShrine>{0}, nothing.</color>",
 
 	"SHRINE_BOSS_NAME": "Mountain",
-	"SHRINE_BOSS_CONTEXT": "Pray]",
+	"SHRINE_BOSS_CONTEXT": "Pray",
 	"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>FOOL</color>",
 	"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0}; FOOL</color>",
 	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>Dummy!</style>",
