@@ -46,7 +46,7 @@
    	"EQUIPMENT_JETPACK_PICKUP": "Fly.",
     	"EQUIPMENT_JETPACK_DESC": "<style=cIsUtility>fly, 15 seconds</style>."
 
-	"EQUIPMENT_LIGHTNING_NAME": "THOR",
+	"EQUIPMENT_LIGHTNING_NAME": "zapity zap",
    	 "EQUIPMENT_LIGHTNING_PICKUP": "lightning.",
     	"EQUIPMENT_LIGHTNING_DESC": "lightning, <style=cIsDamage>3000%</style>.",
 
