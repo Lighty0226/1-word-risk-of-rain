@@ -39,14 +39,14 @@
 	"EQUIPMENT_DRONEBACKUP_LORE": "\"The inclusion of Rapid Response Drone Squadrons (RRDS) by local law enforcement marked a dire turning point of Plank's Rebellion. After its massive \"success\" in quelling the Rebellion - and subsequent implementation across Mercury - underground drone hackers became highly sought after by black market users.\"\r\n\r\n-Overview of Drone Technology, Vol.2\r\n",
 
 	"EQUIPMENT_BFG_NAME": "BFG",
-	"EQUIPMENT_BFG_PICKUP": "Doomguy?.",
+	"EQUIPMENT_BFG_PICKUP": "Doomguy?",
 	"EQUIPMENT_BFG_DESC": "<style=cIsDamage>600%,</style> <style=cIsDamage>4000%</style>.",
 
 	"EQUIPMENT_JETPACK_NAME": "Milky",
    	"EQUIPMENT_JETPACK_PICKUP": "Fly.",
     	"EQUIPMENT_JETPACK_DESC": "<style=cIsUtility>fly, 15 seconds</style>."
 
-	"EQUIPMENT_LIGHTNING_NAME": "zapity zap",
+	"EQUIPMENT_LIGHTNING_NAME": "Capacitor",
    	 "EQUIPMENT_LIGHTNING_PICKUP": "lightning.",
     	"EQUIPMENT_LIGHTNING_DESC": "lightning, <style=cIsDamage>3000%</style>.",
 

@@ -296,8 +296,8 @@
 	"ITEM_ENERGIZEDONEQUIPMENTUSE_DESC": "Activating your Equipment gives you <style=cIsDamage>+70% attack speed</style> for <style=cIsDamage>8s</style> <style=cStack>(+4s per stack)</style>.",
 	"ITEM_ENERGIZEDONEQUIPMENTUSE_LORE" : "\"The War of 2019, while lasting only a brief year, was the bloodiest conflict in human history. As the war got deadlier throughout the year, many rebel groups began to rely on tradition and history for inspiration. \r\n\r\nThe War Horn, pictured above was a favorite of the Northern Fist Rebellion for both its inspirational and tactical uses.\"\r\n\r\n-Exhibit at The National WW19 Museum",
 
-	"ITEM_BARRIERONOVERHEAL_NAME": "Aegis",
-	"ITEM_BARRIERONOVERHEAL_PICKUP": "Healing past full grants you a temporary barrier.",
+	"ITEM_BARRIERONOVERHEAL_NAME": "Shield x2",
+	"ITEM_BARRIERONOVERHEAL_PICKUP": "overheal.",
 	"ITEM_BARRIERONOVERHEAL_DESC": "Healing past full grants you a <style=cIsHealing>temporary barrier</style> for <style=cIsHealing>50% <style=cStack>(+50% per stack)</style></style> of the amount you <style=cIsHealing>healed</style>.",
 
 	"ITEM_TONICAFFLICTION_NAME": "Affliction",
